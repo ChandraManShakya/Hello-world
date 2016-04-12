@@ -1,2 +1,5 @@
 # Hello-world
-just another repository
+
+Hi Everyone
+
+I am doinf some code.
